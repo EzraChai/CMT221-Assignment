@@ -87,7 +87,7 @@
         <mxCell id="yWA6zX5FYKRHolbCdsWn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;System&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="85" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="yWA6zX5FYKRHolbCdsWn-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Data Management Module" vertex="1">
+        <mxCell id="yWA6zX5FYKRHolbCdsWn-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Data Management Module&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="113" x="423.5" y="80" as="geometry" />
         </mxCell>
       </root>
