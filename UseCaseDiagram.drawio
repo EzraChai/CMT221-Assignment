@@ -33,14 +33,11 @@
         <mxCell id="1XiDVvg7efLynAQtIn_G-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ensure Data Consistency and Integrity" vertex="1">
           <mxGeometry height="80" width="120" x="520" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="1XiDVvg7efLynAQtIn_G-38" edge="1" parent="1" source="1XiDVvg7efLynAQtIn_G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="1XiDVvg7efLynAQtIn_G-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Backup Database" vertex="1">
           <mxGeometry height="80" width="120" x="310" y="360" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Control Data Access" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="360" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="340" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ensure Data Privacy Compliance" vertex="1">
           <mxGeometry height="80" width="120" x="520" y="251" as="geometry" />
@@ -61,10 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="430" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="1XiDVvg7efLynAQtIn_G-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="443" y="366" as="geometry" />
+          <mxGeometry height="30" width="60" x="460" y="230" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Retrieve Historical Data" vertex="1">
           <mxGeometry height="80" width="120" x="518" y="500" as="geometry" />
@@ -86,6 +80,15 @@
         </mxCell>
         <mxCell id="yWA6zX5FYKRHolbCdsWn-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;span data-start=&quot;117&quot; data-end=&quot;141&quot;&gt;System&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="30" x="130" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="yWA6zX5FYKRHolbCdsWn-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="yWA6zX5FYKRHolbCdsWn-10" edge="1" parent="1" source="1XiDVvg7efLynAQtIn_G-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="1XiDVvg7efLynAQtIn_G-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="270" as="sourcePoint" />
+            <mxPoint x="560" y="321" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
