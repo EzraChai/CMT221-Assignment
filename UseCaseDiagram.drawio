@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.7">
   <diagram name="Page-1" id="qKZv3lORd4nav9oUPeC4">
-    <mxGraphModel dx="1085" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,6 +16,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-49" edge="1" parent="1" source="1XiDVvg7efLynAQtIn_G-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1XiDVvg7efLynAQtIn_G-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YpjC8f6hs-vbqHEVqelJ-3" edge="1" parent="1" source="1XiDVvg7efLynAQtIn_G-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YpjC8f6hs-vbqHEVqelJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;span data-start=&quot;117&quot; data-end=&quot;141&quot;&gt;System Administrator&lt;/span&gt; " vertex="1">
@@ -49,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Export Data" vertex="1">
-          <mxGeometry height="80" width="120" x="305" y="570" as="geometry" />
+          <mxGeometry height="80" width="120" x="307" y="538" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
           <mxGeometry height="30" width="60" x="430" y="174" as="geometry" />
@@ -61,16 +64,16 @@
           <mxGeometry height="30" width="60" x="460" y="230" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Retrieve Historical Data" vertex="1">
-          <mxGeometry height="80" width="120" x="518" y="500" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="468" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Retrieve Real-Time Data" vertex="1">
-          <mxGeometry height="80" width="120" x="518" y="600" as="geometry" />
+          <mxGeometry height="80" width="120" x="520" y="568" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="420" y="630" as="geometry" />
+          <mxGeometry height="30" width="60" x="422" y="598" as="geometry" />
         </mxCell>
         <mxCell id="1XiDVvg7efLynAQtIn_G-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="420" y="535" as="geometry" />
+          <mxGeometry height="30" width="60" x="422" y="503" as="geometry" />
         </mxCell>
         <mxCell id="yWA6zX5FYKRHolbCdsWn-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Data Management Module&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="113" x="423.5" y="80" as="geometry" />
@@ -89,6 +92,9 @@
             <mxPoint x="470" y="270" as="sourcePoint" />
             <mxPoint x="560" y="321" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjC8f6hs-vbqHEVqelJ-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Monitor the Health" vertex="1">
+          <mxGeometry height="80" width="120" x="400" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
