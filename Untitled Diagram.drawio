@@ -1108,7 +1108,7 @@
           <mxGeometry height="60" width="120" x="1130" y="840" as="geometry" />
         </mxCell>
         <mxCell id="RsKeAHmhzCrlyG1I6r5K-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Parking Availability and Navigation Module&lt;/div&gt;&lt;div&gt;(HUAM JUN FEI)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="985" y="840" as="geometry" />
+          <mxGeometry height="60" width="135" x="978" y="840" as="geometry" />
         </mxCell>
         <mxCell id="RsKeAHmhzCrlyG1I6r5K-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Payment and Transaction&lt;div&gt;(CHAI JUAN ZHE)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1275" y="840" as="geometry" />
