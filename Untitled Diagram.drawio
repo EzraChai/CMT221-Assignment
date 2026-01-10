@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.0">
   <diagram name="Page-1" id="Cj82xb8RpvcyBh2QK29y">
-    <mxGraphModel dx="855" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="708" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1082,6 +1082,39 @@
         </mxCell>
         <mxCell id="PoJwdGhdYvrka3AbSjTJ-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="COFFEE DDBMS" vertex="1">
           <mxGeometry height="30" width="145" x="505" y="2830" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-8" edge="1" parent="1" source="RsKeAHmhzCrlyG1I6r5K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="RsKeAHmhzCrlyG1I6r5K-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-9" edge="1" parent="1" source="RsKeAHmhzCrlyG1I6r5K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="RsKeAHmhzCrlyG1I6r5K-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-11" edge="1" parent="1" source="RsKeAHmhzCrlyG1I6r5K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="RsKeAHmhzCrlyG1I6r5K-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-12" edge="1" parent="1" source="RsKeAHmhzCrlyG1I6r5K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="RsKeAHmhzCrlyG1I6r5K-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-13" edge="1" parent="1" source="RsKeAHmhzCrlyG1I6r5K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="RsKeAHmhzCrlyG1I6r5K-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="George Town Smart Parking System" vertex="1">
+          <mxGeometry height="60" width="120" x="1130" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;User Account and Interaction Module&lt;/div&gt;&lt;div&gt;(OI LI JEE)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Reservation Management Module&lt;/div&gt;&lt;div&gt;(NICHOLAS TONG)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1130" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Parking Availability and Navigation Module&lt;/div&gt;&lt;div&gt;(HUAM JUN FEI)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="985" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Payment and Transaction&lt;div&gt;(CHAI JUAN ZHE)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1275" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="RsKeAHmhzCrlyG1I6r5K-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Administration and Analytics&lt;div&gt;(LIM JIA YU)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
